@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cineflex</string>
+    <string name="login_title">Đăng Nhập</string>
+    <string name="register_title">Đăng Ký Tài Khoản</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="name_hint">Họ và tên</string>
+    <string name="btn_login">Đăng Nhập</string>
+    <string name="btn_register">Đăng Ký</string>
+    <string name="goto_register">Chưa có tài khoản? Đăng ký ngay</string>
+    <string name="goto_login">Đã có tài khoản? Đăng nhập</string>
+    <string name="my_tickets">Vé của tôi</string>
+    <string name="now_playing">Phim đang chiếu</string>
+    <string name="confirm_booking">XÁC NHẬN ĐẶT VÉ</string>
+    <string name="select_seats">Chọn ghế ngồi</string>
+    <string name="total_price">Tổng tiền: %s VNĐ</string>
+    <string name="selected_seats">Ghế đã chọn: %s</string>
+    <string name="booking_success">Đặt vé thành công! 🍿</string>
+</resources>
